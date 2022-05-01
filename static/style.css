@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(#141e30, #243b55);
+}
+
+.form {
+    background: rgba(0,0,0,.5);
+}
+
+.form-label {
+    color: white;
+}
+
+.submit-btn {
+    display: block;
+    color: #03e9f4;
+    padding: 10px 25px;
+    border: 1px solid #03e9f4;
+}
+
+.submit-btn:hover {
+    color: #03e9f4;
+  }
+
